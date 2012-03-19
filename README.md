@@ -88,7 +88,9 @@ https://github.com/jjoolloo/Swiss-Slovak-misunderstanding/
 http://www.crowdscontrol.net
 https://github.com/tohojo/RUC-math--crowd-modeling
 
-mehdimoussaid.com/publications.html
+Collective Dynamics In Human Crowds - mehdimoussaid.com/publications.html
+
+Modeling the 2010 Love Parade Evacuation - www.soms.ethz.ch/teaching/MatlabSpring11/projects/Loveparade_Evacuation_Fougner_Guthrie.pdf
 
 ## Research Methods
 
